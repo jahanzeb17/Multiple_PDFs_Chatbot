@@ -6,7 +6,7 @@ This Streamlit-based application enables users to interact with a Retrieval-Augm
 
 ## Screenshots
 
-![App](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="947" alt="RAG_APP" src="https://github.com/user-attachments/assets/bdd5ba3e-82fe-480f-b6cf-33d3eb66e754">
 
 
 ## Usage/Examples
